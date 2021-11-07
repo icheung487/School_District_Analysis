@@ -2,6 +2,7 @@
 ## Overview of the school district Analysis
 ## Results 
 - Even though we had dishonest student at the Thomas high school, you can see it did not impact the overall school. 
+
 ![](District_Summary.png)
 
 - Overall results for Thomas School is as follows:
