@@ -6,9 +6,9 @@
 ![](District_Summary.png)
 
 * Overall results for Thomas School is as follows:
-**  Passing percentage for Thomas school fell to 65%, while the district fell to about 64%
+** Passing percentage for Thomas school fell to 65%, while the district fell to about 64%
 ** Even though we had dishonest students it still didn't improve the overall ranking of the school.  Thomas school was still performing the lowest compared to the other schools. 
-* Replacing the ninth graders had the following changes:
+** Replacing the ninth graders had the following changes:
 ** Math and reading scores had a slight increase of about .06 which is not much. 
 ** When looking at the budgets, it's clear that spending does not increase as students get better scores. With this analysis, we can conclude there's no coorelation between the spending budgets and student scores.
 
