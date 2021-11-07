@@ -24,3 +24,4 @@
 ![](Group_by_School_Type.png)
 
 ## Summary
+Due to the new data results, it has caused different results from removing the reading and math scores. By replacing Thomas School scores, it shifted them to one of the lowest performing scores when they were originally the top performing.  Secondly, because the 9th and 10th grader scores were replaced, this affected the overall average scores for the district which was a big impact when comparing to the charter schools.  However, Thomas school still had a strong  average math and reading score despite the current news and situation. 
