@@ -14,7 +14,7 @@
 -- Below is the summary of school size and their average scores.  It's clear that as the school size are small, students tend to have do better and have a higher average for both reading and math.  This is clear that students that have a large school size of over 2000 tend to do worse for both reading and math.  It could be there's not enough teachers to give all students the attention that they need. 
 --It's clear that charter school tend to do better than district. For next steps, they might want to look at what the charters school are doing different than district schools. 
 
-![](Group by School Type.png)
+![](Group_by_School_type.png)
 
 
 
